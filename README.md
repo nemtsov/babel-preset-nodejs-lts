@@ -9,6 +9,9 @@ Addes support to NodeJS LTS for:
 - Unicode and sticky regular expressions
 - Spread operator
 - Function.name
+- Object rest/spread properties
+- Class field and static properties
+- Async functions
 
 ## Install
 
