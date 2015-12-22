@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-nodejs-lts",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Babel preset to make NodeJS LTS ECMAScript 2015 compatible.",
   "main": "index.js",
   "license": "MIT",
