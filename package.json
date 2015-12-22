@@ -26,6 +26,7 @@
     "url": "https://www.joshmanders.com"
   },
   "dependencies": {
+    "babel-plugin-add-module-exports": "0.1.2",
     "babel-plugin-transform-async-to-generator": "6.3.13",
     "babel-plugin-transform-class-properties": "6.3.13",
     "babel-plugin-transform-es2015-destructuring": "6.3.15",

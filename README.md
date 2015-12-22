@@ -12,6 +12,7 @@ Addes support to NodeJS LTS for:
 - Object rest/spread properties
 - Class field and static properties
 - Async functions
+- module.exports = exports['default']
 
 ## Install
 
